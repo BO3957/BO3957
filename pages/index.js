@@ -1,3 +1,7 @@
 export default function Home() {
-  return <h1>Welcome to Woojin Chemical!</h1>;
+  return (
+    <div>
+      <h1>Welcome to Woojin Chemical!</h1>
+    </div>
+  );
 }
